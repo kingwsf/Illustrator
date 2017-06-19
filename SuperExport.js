@@ -1,8 +1,8 @@
 //var destFolder = "C:\\tempai\\";
 var logfilePath = '/c/tempai/super-exoprt-log.txt';
 var tempActionFile = '/c/tempai/temp.aia';
-var tempActionSet = 'TempActions'; // 动作集名称
-var tempExportAction = 'tempExportJpg'; // 动作名称
+var tempActionSet = 'TempActions';
+var tempExportAction = 'tempExportJpg'; 
 
 log_init();
 
